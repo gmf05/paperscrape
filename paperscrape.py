@@ -108,16 +108,16 @@ def part3(search_text):
           f.write(response.content)
         is_saved = True
         do_loop = False
-        print 'Succeeded at link ' + str(i)
+        print 'Succeess'
       except:
         i+=1
         if i>=len(possible):
           do_loop = False
     
   if not is_saved:
-    print 'Failed for paper ' + list_text  
+    print 'Failed'
 
-  print '\n\n'
+  print ''
 
 def main():
   
@@ -125,8 +125,9 @@ def main():
   papers = open(sys.argv[1],'rb').readlines()
   papers = papers[0::2] # skip empty lines every other
 
-  for list_text in papers[5:8]:
-    paper_title,paper_authors,paper_year = preprocess_text(list_text)        
+  for paper_num,list_text in enumerate(papers[9:]):
+    paper_title,paper_authors,paper_year = preprocess_text(list_text)
+    print str(paper_num) + ' ' + paper_year + ' ' + paper_authors + ' ' + paper_title
     search_text = str.lower(paper_title + ' ' + paper_year)
     part1(search_text)
     plt.pause(pause_secs)
