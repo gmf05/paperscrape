@@ -1,0 +1,246 @@
+Latham, P.E., Richmond, B.J., Nelson, P.G., and Nirenberg, S. (2000), Intrinsic dynamics in neuronal networks. I. Theory. J. Neurophysiol., 83:808-827.
+
+Treves, A. (1993), Mean-field analysis of neuronal spike dynamics, Network: Computation in Neural Systems, 4(3):259-284
+
+Blanche, T. J., Spacek, M. A., Hetke, J. F. & Swindale, N. V. Polytrodes: high-density silicon electrode arrays for large-scale multiunit recording. J. neurophysiol. 93, 2987–3000 (2005). 9. Brown, E. N., 
+
+Roudi, Y., Nirenberg, S., and Latham, P. E. (2009). Pairwise maximum entropy models for studying large biological systems: when they can work and when they can’t. PLoS Comput. Biol. 5, e1000380. doi: 10.1371/journal.pcbi.1000380.
+
+Abbott, L. F. Decoding neuronal firing and modelling neural networks. Q. Rev. Biophys. 27, 291–331 (1994)
+
+Jia X, Tanabe S, Kohn A. Gamma and the Coordination of Spiking Activity in Early Visual Cortex. Neuron. 2013 Feb; 77(4):762–74. doi: 10.1016/j.neuron.2012.12.036 PMID: 23439127
+
+Siapas AG, Lubenov EV, Wilson MA. Prefrontal phase locking to hippocampal theta oscillations. Neuron. 2005 Apr; 46(1):141–51. doi: 10.1016/j.neuron.2005.02.028 PMID: 15820700
+
+Gerkin RC, Tripathy SJ, Urban NN. Origins of correlated spiking in the mammalian olfactory bulb. Proceedings of the National Academy of Sciences. 2013 Sep; 110(42):17083–17088. doi: 10.1073/pnas1303830110
+
+Tattersall TL, Stratton PG, Coyne TJ, Cook R, Silberstein P, Silburn Pa, et al. Imagined gait modulates neuronal network dynamics in the human pedunculopontine nucleus. Nature Neuroscience. 2014 Mar; 17(3):449–54. doi: 10.1038/nn.3642 PMID: 24487235
+
+Zelenin PV. Reticulospinal neurons controlling forward and backward swimming in the lamprey. Journal of Neurophysiology. 2011 Mar; 105(3):1361–71. doi: 10.1152/jn.00887.2010 PMID: 21248057
+
+de Ruyter van Steveninck, R. R., Lewen, G. D., Strong, S. P. & Koberle, R. Reproducibility and variability in neural spike trains. Science 275, 1805–1808 (1997).
+
+Thorpe, S., Delorme, A., & Van Rullen, R. (2001). Spike-based strategies for rapid processing. Neural Networks, 14, 715–725.
+
+Berry, M. J., Warland, D. K. & Meister, M. The structure and precision of retinal spike trains. Proc. natl Acad. Sci. USA 94, 5411–5416 (1997).
+
+Bazhenov, M., Rulkov, N.F., Fellous, J.-M. & Timofeev, I. Role of network dynamics in shaping spike timing reliability. Phys. Rev. E 72, 041903 (2005).
+
+Shadlen, M., Newsome, W., 1998. The variable discharge of cortical neurons: implications for connectivity, computation and coding. Journal of Neuroscience 18, 3870–3896.
+
+Nirenberg S, Victor JD. Analyzing the activity of large populations of neurons—How tractable is the problem? Current Opinion in Neurobiology.2007;17:397–400
+
+Martignon, L., Deco, G., Laskey, K., Diamond, M., Freiwald, W., and Vaadia, E. (2000). Neural coding: higher-order temporal patterns in the neurostatistics of cell assemblies.Neural Comput. 12, 2621–2653.
+
+Ventura, V., Cai, C., and Kass, R. E. (2005). Trial-to-trial variability and its effect on time-varying dependency between two neurons. J. Neurophysiol. 94, 2928–2939.
+
+Shadlen, M. N., and Newsome, W. T. (1998). The variable discharge of cortical neurons: implications for connectivity, computation, and information coding. J. Neurosci. 18, 3870–3896.
+
+Schneidman E, Berry MJ, II, Segev R, Bialek W. Weak pairwise correlations imply strongly correlated network states in a neural population. Nature.2006;440:1007–1012
+
+Wessel, R., Koch, C. & Gabbiani, F. Coding of time-varying electric field amplitude modulation in a wave-type electric fish. J. Neurophysiol. 75, 2280–2293 (1996).
+
+deCharms, R.C., Merzenich, M.M., 1996. Primary cortical representation of sounds by the coordination of action-potential timing. Nature 381, 610–613
+
+Jacobs, A.L. et al. Ruling out and ruling in neural codes. Proc. Natl. Acad. Sci. USA 106, 5936–5941 (2009)
+
+Mehta, M. R., Lee, A. K. & Wilson, M. A. Role of experience and oscillations in transforming a rate code into a temporal code. Nature 417, 741–746 (2002).
+
+Pesaran, B., Pezaris, J., Sahani, M., Mitra, P. M. & Andersen, R. A. Temporal structure in neuronal activity during working memory in macaque parietal cortex. nature neurosci. 5, 805–811 (2002)
+
+Singer, W. & Gray, C. M. Visual feature integration and the temporal correlation hypothesis. Annu. Rev. neurosci. 18, 555–586 (1995
+
+Salinas, E., Hernandez, A., Zainos, A. & Romo, R. Periodicity and firing rate as candidate neural codes for the frequency of vibrotactile stimuli. J. neurosci. 20, 5503–5515 (2000)
+
+Lazar AA. Time encoding with an integrate-and-fire neuron with a refractory period. Neurocomputing. 2004;58–60:53–58.
+
+Reinagel, P. & Clay Reid, R. Temporal coding of visual information in the thalamus. J. neurosci. 20, 5392–5400 (2000)
+
+Victor, J. D. Temporal aspects of neural coding in the retina and lateral geniculate. network 10, R1–R66 (1999)
+
+DeCharms, R. C. & Merzenich, M. M. Primary cortical representation of sounds by the coordination of action-potential timing. Nature 381, 610–613 (1996).
+
+Theunissen, F. E. & Doupe, A. J. Temporal and spectral sensitivity of complex auditory neurons in the nucleus HVc of male zebra finches. J. Neurosci. 18, 3786–3802 (1998).
+
+Laurent, G. & Davidowitz, W. Encoding of olfactory information with oscillating neural assemblies. Science 265, 1872–1875 (1994)
+
+Buracas, G. T., Zador, A. M., DeWeese, M. R. & Albright, T. D. Efficient discrimination of temporal patterns by motion-sensitive neurons in primate visual cortex. Neuron 20, 959–969 (1998). 17. Knudsen, E. I. & Konishi, M. Mechanisms 
+
+Golomb, D., Kleinfeld, D., Reid, R.C., Shapley, R.M., Shraiman, B., 1994. On temporal codes and the spatiotemporal response of neurons in the lateral geniculate nucleus. Journal of Neurophysiology 72, 2990–3003
+
+Fries, P., 2009. Neuronal gamma-band synchronization as a fundamental process in cortical computation. Annual Reviews of Neuroscience 32, 209–224
+
+Fries, P., 2005. A mechanism for cognitive dynamics: neuronal communication through neuronal coherence. Trends in Cognitive Sciences 9, 474–480.
+
+Eskandar, E.N., Richmond, B.J., Optican, L.M., 1992. Role of inferior temporal neurons in visual memory. I. Temporal encoding of information about visual images, recalled images, and behavioural context. Journal of Neurophysiology 68, 1277– 1295
+
+Kayser, C., Montemurro, M.A., Logothetis, N.K., Panzeri, S., 2009. Spike-phase coding boosts and stabilizes information carried by spatial and temporal spike patterns. Neuron 61, 597–608.
+
+Lee, H., Simpson, G.V., Logothetis, N.K., Rainer, G., 2005. Phase locking of single neuron activity to theta oscillations during working memory in monkey extrastriate visual cortex. Neuron 45, 147–156.
+
+Huxter, J., Burgess, N., O’Keefe, J., 2003. Independent rate and temporal coding in hippocampal pyramidal cells. Nature 425, 828–832. 
+
+Huxter, J.R., Senior, T.J., Allen, K., Csicsvari, J., 2008. Theta phase-specific codes for two-dimensional position, trajectory and heading in the hippocampus. Nature Neuroscience 11, 587–594
+
+Panzeri, S., Petersen, R.S., Schultz, S.R., Lebedev, M., Diamond, M.E., 2001a. The role of spike timing in the coding of stimulus location in rat somatosensory cortex. Neuron 29, 769–777.
+
+Victor, J.D., 2000. How the brain uses time to represent and process visual information. Brain Research 886, 33–46.
+
+VanRullen, R., Guyonneau, R., Thorpe, S.J., 2005. Spike times make sense. Trends in Neuroscience 28, 1–4
+
+Siegel, M., Warden, M.R., Miller, E.K., 2009. Phase-dependent neuronal coding of objects in short-term memory. Proceedings of the National Academy of Sciences USA 106, 21341–21346
+
+Chase, S.M. & Young, E.D. First-spike latency information in single neurons increases when referenced to population onset. Proc. Natl. Acad. Sci. USA 104, 5175–5180 (2007).
+
+Johansson, R.S. & Birznieks, I. First spikes in ensembles of human tactile afferents code complex spatial fingertip events. Nat. Neurosci. 7, 170–177 (2004)
+
+Butts, D.A. et al. Temporal precision in the neural code and the timescales of natural vision. Nature 449, 92–95 (2007).
+
+Brette, R. Computing with neural synchrony. PLoS Comput. Biol. 8, e1002561 (2012).
+
+Van Rullen, R. & Thorpe, S.J. Rate coding versus temporal order coding: what the retinal ganglion cells tell the visual cortex. Neural Comput. 13, 1255–1283 (2001).
+
+Gollisch, T. & Meister, M. Rapid neural coding in the retina with relative spike latencies. Science 319, 1108–1111 (2008).
+
+Victor, J. D. & Purpura, K. P. Nature and precision of temporal coding in visual cortex: a metric-space analysis. J. neurophysiol. 76, 1310–1326 (1996).
+
+Reich, D. S., Mechler, F. & Victor, J. D. Temporal coding of contrast in primary visual cortex: when, what, and why. J. neurophysiol. 85, 1039–1050 (2001)
+
+Averbeck, B. B., Latham, P. E., and Pouget, A. (2006). Neural correlations, population coding and computation. Nat. Rev. Neurosci. 7, 358–366.
+
+Pouget, A., Dayan, P. & Zemel, R. Information processing with population codes. nature Rev. neurosci. 1, 125–132 (2000).
+
+Pouget, A., Zemel, R. & Dayan, P. Inference and computation with population code. Annu. Rev. neurosci. 26, 381–410 (2003).
+
+Quian Quiroga, R., Reddy, L., Koch, C. & Fried, I. Decoding visual inputs from multiple neurons in the human temporal lobe. J. neurophysiol. 98, 1997–2007 (2007).
+
+Abbott, L. F., and Dayan, P. (1999). The effect of correlated variability on the accuracy of a population code. Neural Comput. 11, 91–101.
+
+Lazar AA. Population encoding with Hodgkin-Huxley neurons. IEEE Transactions on Information Theory, Special Issue on Molecular Biology and Neuroscience. 2010;56(2):821–837.
+
+Lazar AA, Pnevmatikakis EA. Faithful representation of stimuli with a population of integrate-and-fire neurons. Neural Computation.2008;20(11):2715–2744.
+
+Golledge, H.D., Panzeri, S., Zheng, F., Pola, G., Scannell, J.W., Giannikopoulos, D.V., Mason, R.J., Tovee, M.J., Young, M.P., 2003. Correlations, feature-binding and population coding in primary visual cortex. Neuroreport 14, 1045–1050.
+
+Desbordes, G. et al. Timing precision in population coding of natural scenes in the early visual system. PLoS Biol. 6, e324 (2008).
+
+Jensen, O., Lisman, J.E., 2000. Position reconstruction from an ensemble of hippocampal place cells: contribution of theta phase coding. Journal of Neurophysiology 83, 2602–2609
+
+Leutgeb, S., Leutgeb, J.K., Treves, A., Moser, M.B., Moser, E.I., 2004. Distinct ensemble codes in hippocampal areas CA3 and CA1. Science 305, 1295–1298
+
+Georgopoulos, A. P., Schwartz, A. B. & Kettner, R. E. Neuronal population coding of movement direction. Science 233, 1416–1419 (1986). The first study to implement a population analysis of neuronal responses by using a population vector
+
+Georgopoulos, A.P., Kettner, R.E. & Schwartz, A.B. Primate motor cortex and free arm movements to visual targets in three-dimensional space. II. Coding of the direction of movement by a neuronal population. J. Neurosci. 8, 2928–2937 (1988)
+
+Stanley, G.B., Li, F.F. & Dan, Y. Reconstruction of natural scenes from ensemble responses in the lateral geniculate nucleus. J. Neurosci. 19, 8036–8042 (1999).
+
+Petersen, R. S., Panzeri, S. & Diamond, M. E. Population coding of stimulus location in rat somatosensory cortex. neuron 32, 503–514 (2001)
+
+Ohiorhenuan IE, Mechler F, Purpura KP, Schmidt AM, Victor JD. Sparse coding and high-order correlations in fine-scale cortical networks. Nature.2010;466:617–621. 
+
+Barlow, H., 1972. Single units and sensation: a neuron doctrine for perceptual psychology? Perception 1, 371–394
+
+Olshausen, B.A., Field, D.J., 2004. Sparse coding of sensory inputs. Current Opinion in Neurobiology 14, 481–487.
+
+Vinje, W.E., Gallant, J.L., 2000. Sparse coding and decorrelation in primary visual cortex during natural vision. Science 287, 1273–1276.
+
+Perez-Orive, J. et al. Oscillations and sparsening of odor representations in the mushroom body. Science 297, 359–365 (2002). 
+
+Hahnloser, R. H. R., Kozhevnikov, A. A. & Fee, M. S. An ultra-sparse code underlies the generation of neural sequences in a songbird. nature 419, 65–70 (2002)
+
+Theunissen, F. E. From synchrony to sparseness. Trends neurosci. 26, 61–64 (2003)
+
+Buracas, G. T., Zador, A., DeWeese, M. & Albright, T. Efficient encoding of rapidly varying stimuli by motionsensitive neurons in MT of alert monkeys. neuron 20, 959–969 (1998)
+
+Montemurro, M., Rasch, M. J., Murayama, Y., Logothetis, N. K. & Panzeri, S. Phase-of-firing coding of natural visual stimuli in primary visual cortex. Curr. Biol. 18, 375–380 (2008).
+
+Scherberger, H., Jarvis, M. & Andersen, R. A. Cortical local field potential encodes movement intentions in the posterior parietal cortex. neuron 46, 347–354 (2005).
+
+Shannon CE. A mathematical theory of communication. Bell System Technical Journal. 1948;27:623–656.
+
+Shannon CE. The bandwagon. IRE Transactions in Information Theory.1956;2(1):3.
+
+Granger C. Investigating causal relations by econometric models and cross-spectral methods. Econometrica. 1969;37(3):424–438.
+
+Schreiber T. Measuring information transfer. Physical Review Letters.2000;85(2):461–464
+
+Massey J. Causality, feedback and directed information. Proc Intl Symp Information Theory Applications (ISITA-90) 1990:303–305.
+
+Massey J, Massey P. Conservation of mutual and directed information. Proc Intl Symp Information Theory (ISIT 2005) 2005:157–158.
+
+MacKay, D. M. Information Theory, Inference, and Learning Algorithms (Cambridge Univ. Press, Cambridge, 2003)
+
+Schneidman, E., Bialek, W. & Berry, M.J. Synergy, redundancy, and independence in population codes. J. Neurosci. 23, 11539–11553 (2003).
+
+Gawne, T.J., Richmond, B.J., 1993. How independent are the messages carried by adjacent inferior temporal cortical neurons? Journal of Neuroscience 13, 2758– 2771.
+
+Theunissen, F., Roddey, J. C., Stufflebeam, S., Clague, H. & Miller, J. P. Information theoretic analysis of dynamical encoding by four identified interneurons in the cricket cercal system. J. Neurophysiol. 75, 1345–1364 (1996).
+
+MacKay DM, McCulloch WS. The limiting information capacity of a neuronal link. Bulletin of Mathematical Biophysics. 1952;14:127–135.
+
+Treves, A., Rolls, E.T., 1991. What determines the capacity of autoassociative memories in the brain? Network 2, 371–397.
+
+Skaggs, W.E., McNaughton, B.L., Gothard, K., Markus, E., 1993. An information theoretic approach to deciphering the hippocampal code. In: Hansen, S., Cowan, J., Giles, C. (Eds.), Advances in Neural Information Processing Systems, vol. 5. MIT Press, Cambridge, MA, pp. 1030–1037
+
+Treves A, Panzeri S. The upward bias in measures of information derived from limited data samples. Neural Computation. 1995;7:399–440.
+
+Treves, A., Panzeri, S., Rolls, E.T., Booth, M., Wakeman, E.A., 1999b. Firing rate distributions and efficiency of information transmission of inferior temporal cortex neurons to natural visual stimuli. Neural Computation 11, 601–631
+
+Eggermont, J. J., Johannesma, P. I. M. & Aertsen, A. M. H. J. Reverse correlation methods in auditory research. Q. Rev. Biophys. 16, 341–414 (1983).
+
+Kjaer, T. W., Hertz, J. A. & Richmond, B. J. Decoding cortical neuronal signals: network models, information estimation and spatial tuning. J. Comput. Neurosci. 1, 109–139 (1994).
+
+Theunissen, F. E. & Miller, J. P. Representation of sensory information in the cricket cercal sensory system. II Information theoretic calculation of system accuracy and optimal tuning curve width of four primary interneurons. J. Neurophysiol. 66, 1690–1703 (1991)
+
+ Roddey, J. C. & Jacobs, G. A. Information theoretic analysis of dynamical encoding by filiform mechanoreceptors in the cricket cercal system. J. Neurophysiol. 75, 1365–1376 (1996
+
+McCulloch WS. An upper bound on the informational capacity of a synapse. Proceedings of the 1952 ACM national meeting; Pittsburgh, Pensilvania. 1952.
+
+Abeles M, Lass Y. Transmission of information by the axon: II. The channel capacity. Biological Cybernetics. 1975;19:121–125.
+
+Stark L, Negrete-Martinze J, Yankelevich G, Theodoridis G. Experiments on information coding in nerve impulse trains. Mathematical Biosciences.1969;4(3–4):451–485.
+
+Stein RB. The information capacity of nerve cells using a frequency code.Biophysical Journal. 1967;7(6):797–826
+
+Rapoport A, Horvath WJ. The theoretical channel capacity of a single neuron as determined by various coding systems. Information and Control.1960;3(4):335–350.
+
+Paninski L. Estimation of entropy and mutual information. Neural Computation. 2003;15:1191–1253.
+
+Norwich K. On the information received by sensory receptors. Bulletin of Mathematical Biology. 1977;39:453–461.
+
+Eckhorn R, Querfurth H. Information transmission by isolated frog muscle spindle. Biological Cybernetics. 1985;52:165–176
+
+Tovee, M. J., & Rolls, E. T. (1995). Information encoding in short firing rate epochs by single neurons in the primate temporal visual cortex. Visual Cognition, 2(1), 35–58.
+
+Nakahara, H., and Amari, S. (2002). Information-geometric measure for neural spikes. Neural Comput. 14, 2269–2316.
+
+Averbeck, B. B., and Lee, D. (2006). Effects of noise correlations on information encoding and decoding. J. Neurophysiol. 95, 3633–3644.
+
+Quinn CJ, Coleman TP, Kiyavash N, Hatsopoulos NG. Estimating the directed information to infer causal relationships in ensemble neural spike train recordings. Journal of Computational Neuroscience. 2011 doi: 10.1007/s10827-010-0247-2.
+
+Lizier J, Heinzle J, Horstmann A, Haynes J-D, Prokopenko M. Multivariate information-theoretic measures reveal directed information structure and task relevant changes in fMRI connectivity. Journal of Computational Neuroscience. 2011 doi: 10.1007/s10827-010-0271-2.
+
+Paninski L. Asymptotic theory of information-theoretic experimental design.Neural Computation. 2005;17:1480–1507.
+
+Optican, L. M. & Richmond, B. J. Temporal encoding of two-dimensional patterns by single units in primate inferior temporal cortex. III. Information theoretic analysis. J. neurophysiol. 57, 162–178 (1987). The first study to demonstrate that the time profile of cortical spike trains encodes much more information about static visual features than spike counts
+
+Optican, L.M., Gawne, T.J., Richmond, B.J., Joseph, P.J., 1991. Unbiased measures of transmitted information and channel capacity from multivariate neuronal data. Biological Cybernetics 65, 305–310
+
+Victor JD. Binless strategies for estimation of information from neural data.Physical Review E. 2002;66:051903.
+
+Belitski, A., Panzeri, S., Magri, C., Logothetis, N.K., Kayser, C., 2010. Sensory information in local field potentials and spikes from visual and auditory cortices: time scales and frequency bands. Journal of Computational Neuroscience 29, 533–545
+
+Rolls, E.T., Aggelopoulos, N.C., Franco, L., Treves, A., 2004. Information encoding in the inferior temporal visual cortex: contributions of the firing rates and the correlations between the firing of neurons. Biological Cybernetics 90, 19–32
+
+Rolls, E.T., Franco, L., Aggelopoulos, N.C., Reece, S., 2003b. An information theoretic approach to the contributions of the firing rates and the correlations between the firing of neurons. Journal of Neurophysiology 89, 2810–2822
+
+Quian Quiroga, R., Panzeri, S., 2009. Extracting information from neuronal populations: information theory and decoding approaches. Nature Reviews  Neuroscience 10, 173–185. 
+
+Richmond, B.J., 2009. Stochasticity, spikes and decoding: sufficiency and utility of order statistics. Biological Cybernetics 100, 447–457
+
+Victor, J. D. & Nirenberg, S. Indices for testing neural codes. neural Comput. 20, 2895–2936 (2008).
+
+Arabzadeh, E., Panzeri, S. & Diamond, M. E. Deciphering the spike train of a sensory neuron: counts and temporal patterns in the rat whisker pathway. J. neurosci. 26, 9216–9226 (2006). This paper developed an analytical formalism that quantifies how much sensory information can be extracted from the spike times when the stimulus time is not known precisely
+
+Marco Martina and Peter Jonas 1997. Functional differences in Nae channel gating between fast-spiking interneurones and principal neurones of rat hippocampus.  Journal of Physiology (1997), 505.3, pp.593-603
+
