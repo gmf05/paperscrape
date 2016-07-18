@@ -8,12 +8,16 @@ Created on Sun Jul 17 18:21:07 2016
 # paper_scraper.py
 
 # Import modules
+import sys
 import re
 import requests
 import numpy as np
 import matplotlib.pyplot as plt
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
 
 pause_secs = 3
 driver = webdriver.Chrome()
@@ -117,10 +121,11 @@ def part3(search_text):
 
 def main():
   
-  papers = open('paper_list.txt','rb').readlines()
+  #papers = open('paper_list.txt','rb').readlines()
+  papers = open(sys.argv[1],'rb').readlines()
   papers = papers[0::2] # skip empty lines every other
 
-  for list_text in papers:
+  for list_text in papers[5:8]:
     paper_title,paper_authors,paper_year = preprocess_text(list_text)        
     search_text = str.lower(paper_title + ' ' + paper_year)
     part1(search_text)
