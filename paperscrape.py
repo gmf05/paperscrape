@@ -125,7 +125,7 @@ def main():
   papers = open(sys.argv[1],'rb').readlines()
   papers = papers[0::2] # skip empty lines every other
 
-  for paper_num,list_text in enumerate(papers[9:]):
+  for paper_num,list_text in enumerate(papers):
     paper_title,paper_authors,paper_year = preprocess_text(list_text)
     print str(paper_num) + ' ' + paper_year + ' ' + paper_authors + ' ' + paper_title
     search_text = str.lower(paper_title + ' ' + paper_year)
