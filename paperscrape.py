@@ -15,6 +15,9 @@ import matplotlib.pyplot as plt
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+pause_secs = 3
+driver = webdriver.Chrome()
+
 # Convert list text to year, author, title segments
 def preprocess_text(list_text):
   # PRE-PROCESSING: DROP TROUBLESOME CHARS, PARSE FORMATTING
@@ -79,7 +82,7 @@ def part2():
     0
 
 # Part 3: Find link to PDF, if available
-def part3():
+def part3(search_text):
   # Get all [PDF] button links
   links = driver.find_elements_by_tag_name('a')
   possible = []
@@ -117,18 +120,14 @@ def main():
   papers = open('paper_list.txt','rb').readlines()
   papers = papers[0::2] # skip empty lines every other
 
-  driver = webdriver.Chrome()
-
   for list_text in papers:
     paper_title,paper_authors,paper_year = preprocess_text(list_text)        
     search_text = str.lower(paper_title + ' ' + paper_year)
     part1(search_text)
-    plt.pause(3)
+    plt.pause(pause_secs)
     part2()
-    plt.pause(3)
-    part3()
-
-  driver.close()
+    plt.pause(pause_secs)
+    part3(search_text)
 
 if __name__=='__main__':
     main()
